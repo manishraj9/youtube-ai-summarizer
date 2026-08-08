@@ -7,4 +7,3 @@ pytube
 faiss_cpu
 ctransformers
 openai-whisper
-llama-cpp-python
