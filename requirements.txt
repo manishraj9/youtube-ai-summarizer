@@ -6,6 +6,5 @@ sentence_transformers
 pytube
 faiss_cpu
 ctransformers
-git+https://github.com/openai/whisper.git 
-llama-cpp-python
 openai-whisper
+llama-cpp-python
