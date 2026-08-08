@@ -1,4 +1,3 @@
-farm-haystack
 streamlit
 streamlit_chat
 torch
