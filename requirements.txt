@@ -7,3 +7,4 @@ faiss_cpu
 ctransformers
 openai-whisper
 python-dotenv
+google-genai
