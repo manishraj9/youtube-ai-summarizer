@@ -1,3 +1,2 @@
 ffmpeg
 yt-dlp
-deno
